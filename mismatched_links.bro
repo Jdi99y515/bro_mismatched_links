@@ -220,9 +220,3 @@ event bro_init()
         run_tests();
     }
 }
-
-
-
-event bro_done()
-    {
-    }
